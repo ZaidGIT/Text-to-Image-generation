@@ -1,5 +1,4 @@
 # Text-to-Image-generation
-Sure! Here’s a text-only description of the project:
 
 ---
 
