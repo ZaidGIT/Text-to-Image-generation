@@ -26,4 +26,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ## Contact
 
-For any questions or feedback, please reach out to [mohammedzaidmadari@gmail.com](mailto:mohammedzaidmadari@gmail.com).
+For any questions or feedback, please reach out to [mohammedzaidmadari@gmail.com](mailto:izaid.dev@gmail.com).
